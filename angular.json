@@ -143,3 +143,8 @@
  "maximumWarning"
  "src/index.html"
  "sourceMap"
+ "jasmine-spec-reporter"
+ "@angular-devkit/build-angular:browser"
+ "@angular-devkit/build-angular"
+ THis is required in hte projecct 
+ 
